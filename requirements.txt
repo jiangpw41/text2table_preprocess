@@ -1,0 +1,3 @@
+wayne-utils
+python-docx
+tqdm
